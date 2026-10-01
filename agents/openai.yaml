@@ -1,0 +1,7 @@
+interface:
+  display_name: "大学知识整理"
+  short_description: "将手写、图片与课程文档整理为可维护知识库"
+  default_prompt: "Use $university-knowledge-organizer to transcribe these university materials and organize them into a source-traceable Markdown knowledge base."
+
+policy:
+  allow_implicit_invocation: true
